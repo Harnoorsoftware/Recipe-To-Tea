@@ -20,19 +20,19 @@ table, th, td {
   </tr>
   <tr>
     <td>Pour 2 cups of water into the utensil.</td>
-    <td></td>
+    <td>img_water.png</td>
   </tr>
   <tr>
     <td>Add tea leaves, sugar, ginger and cardamom and let it boil.</td>
-    <td>Jackson</td>
+    <td>img_ingredient.png</td>
   </tr>
   <tr>
     <td>After boiling it ,add milk to it and let it boil thoroughly.</td>
-    <td></td>
+    <td>img_boiling_tea.png</td>
   </tr>
   <tr>
     <td>Lastly, stain it in a cup and enjoy!</td>
-    <td></td>
+    <td>img_tea_cup.png</td>
   </tr>
 
 </table>
