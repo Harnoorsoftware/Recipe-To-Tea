@@ -11,7 +11,7 @@ table, th, td {
 <h1>Hi! I am Harnoor!
 <h2>Welcome to my <em>third blog.</em></h2>
 <h3>Recipe to tea(Well, I had enough of story blogs so I decided to start a cooking blog!!!)</h3>
-<h4>Materials : a utensil for making tea, 2 cups water and 1 milk, tea leaves and sugar (measurements as per your taste),ginger, cardamom , a tea strainer and cup .
+<h4>Materials : a utensil for making tea, 2 cups water and 1 milk, tea leaves and sugar ,ginger, cardamom , cloves, star anise, black pepper, cinnamon (measurements as per your taste), a tea strainer and cup .
 
 <table style="width:100%">
   <tr>
@@ -23,7 +23,7 @@ table, th, td {
     <td>img_water.png</td>
   </tr>
   <tr>
-    <td>Add tea leaves, sugar, ginger and cardamom and let it boil.</td>
+    <td>Add tea leaves, sugar, ginger, cloves, cinnnamon, star anise, black pepper and cardamom and let it boil.</td>
     <td>img_ingredient.png</td>
   </tr>
   <tr>
